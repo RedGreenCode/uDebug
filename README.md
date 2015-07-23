@@ -1,2 +1,2 @@
 # uDebug
-Code to generate input for problems on http://www.udebug.com/
+Test input and code to generate test input for problems on http://www.udebug.com/
